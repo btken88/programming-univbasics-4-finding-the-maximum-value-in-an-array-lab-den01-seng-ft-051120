@@ -1,3 +1,4 @@
 def find_max_value(array)
-  # Add your solution here
+  max_location = nil
+  count = 0
 end
